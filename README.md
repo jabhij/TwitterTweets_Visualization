@@ -13,7 +13,7 @@ In this repository I'll show how to visualize tweets on Google Maps using R in s
 
 Follow these steps for:
 
-- Exploring or Fetching Location ([GeoCoding]())
+- Exploring or Fetching Location ([GeoCoding](https://github.com/jabhij/Twitter_Tweets_Visualization/blob/master/How_To/Geocoding.r))
 - Getting Location ([Get_Map]())
 - Creating a Twitter App ([Twitter_App]())
 - Twitter Authentication with Credentials ([Twitter_Auth]())
