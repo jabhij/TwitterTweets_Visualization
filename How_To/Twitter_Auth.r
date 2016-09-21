@@ -1,5 +1,6 @@
 # Twitter Authentication Setup
 
+# Loading Library
 library(twitterR)
 
 # Twitter Consumer Key - Sample
