@@ -9,6 +9,8 @@ In this repository I'll show how to visualize tweets on Google Maps using R in s
 - Input: `Data(tweets) associated with any twitter handle`
 - Outcome: Visualization of Tweets on Map
 
+![alt text](https://cloud.githubusercontent.com/assets/7325312/18176329/c76b92d6-7092-11e6-8707-c3546c3a2ed2.png)
+
 ### How To?
 
 Follow these steps:
