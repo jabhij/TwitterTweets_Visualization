@@ -1,6 +1,8 @@
 ## Twitter Tweets Visualization
 
 In this repository I'll show how to visualize tweets, re-tweets, mentions etc. for a Particular Twitter Handle (say [@jabhij](https://twitter.com/jabhij)) on Google Maps using R in simple steps.
+We can restrict the twitter-activity data by providing number of tweets, we want to visaualize. It can be 100, 500, or even in 
+thousands based on requirement.
 
 ### Description
 
