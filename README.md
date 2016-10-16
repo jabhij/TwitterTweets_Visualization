@@ -1,6 +1,6 @@
 ## Twitter Tweets Visualization
 
-In this repository I'll show how to visualize tweets on Google Maps using R in simple steps.
+In this repository I'll show how to visualize tweets, re-tweets, mentions etc. for a Particular Twitter Handle (say [@jabhij](https://twitter.com/jabhij)) on Google Maps using R in simple steps.
 
 ### Description
 
