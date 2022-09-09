@@ -13,4 +13,4 @@ access_secret <- "u3F8SlhQhUWXwNh24lhbmKoUjKM5wlVj19DDr3Sr9TlhShq"
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
 # In addition to that other ways of authentication can be?
-# looking into it
+# looking into it.
