@@ -30,6 +30,7 @@ Follow these steps:
 
 For any query, ping me on 
 - Twitter: [@jabhij] (https://twitter.com/jabhij)
+- Linkedin: [@jabhij] (https://www.linkedin.com/in/jabhij/)
 - Web: [LetUsTweak] (http://letustweak.com)
 
 Hope, it helps!! ヅ
