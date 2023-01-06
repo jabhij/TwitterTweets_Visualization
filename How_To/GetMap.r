@@ -1,4 +1,4 @@
-# Plotting Map using "ggmap"
+# Plotting using "ggmap"
 
 # Loading Library
 library(ggmap)
