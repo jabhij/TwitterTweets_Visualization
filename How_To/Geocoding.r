@@ -1,4 +1,4 @@
-# First of all Install RCurl and Rjson Packages 
+# Install RCurl and Rjson Packages 
 
 # Using Forward GeoCoding. 
 url <- "https://maps.googleapis.com/maps/api/geocode/json?address=India+Gate,+New+Delhi,+India&components=country:IN"
